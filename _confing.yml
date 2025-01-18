@@ -1,3 +1,2 @@
-yaml
-
-theme:minima
+# this is a comment.
+theme: theme- minimal
